@@ -33,7 +33,22 @@ Estas son mis redes sociales oficiales por si quieres seguirme en Youtube o Inst
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+## Mis habilidades
+- Lenguajes:
 
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Herramientas:
+
+  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- Frameworks:
+
+  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+
+---
 # Estadísticas :
 
 ![](https://github-readme-stats.vercel.app/api?username=DarkHater01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
