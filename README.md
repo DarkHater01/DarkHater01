@@ -5,7 +5,6 @@ bienvenido a mi GitHub, suelo crear herramientas para pasar el tiempo y que la g
 
 En mi GitHub puedes encontrar gran variedad de repositorios diferentes y funcionales para que puedas usarlos, no me hago responsable del mal uso que se le pueda llegar a dar a alguna herramienta.
 
-<p align="center"> <img width="250px" src=/https://media.giphy.com/media/3o7TKHfEpir70h8tuU/giphy.gif?cid=790b7611z8cejrgmkhrwwvr2hfsmf4o56z4c6qfnv46x4fu3&ep=v1_gifs_search&rid=giphy.gif&ct=g> </p>
 
 <img src="https://komarev.com/ghpvc/?username=RIP-Network&style=flat-square&color=blue"> 
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/DarkHater01?style=social">
@@ -53,6 +52,6 @@ Estas son mis redes sociales oficiales por si quieres seguirme en Youtube o Inst
 
 # Contribucion :
 
-![](https://github-contributor-stats.vercel.app/api?username=DarkHater01k&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=DarkHater01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
