@@ -1,7 +1,7 @@
 ---
 # Sobre mi.. : 
 
-bienvenido a mi GitHub, suelo crear herramientas para pasar el tiempo y que la gente las pueda usar para su gusto. mayormente suelo crear herramientas automatizadas para poder ayudar a la gente a facilitar sus tareas.
+Bienvenido a mi GitHub, suelo crear herramientas para pasar el tiempo y que la gente las pueda usar para su gusto. mayormente suelo crear herramientas automatizadas para poder ayudar a la gente a facilitar sus tareas.
 
 En mi GitHub puedes encontrar gran variedad de repositorios diferentes y funcionales para que puedas usarlos, no me hago responsable del mal uso que se le pueda llegar a dar a alguna herramienta.
 
@@ -37,7 +37,9 @@ Estas son mis redes sociales oficiales por si quieres seguirme en Youtube o Inst
 - Lenguajes:
 
   
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
 - Herramientas:
 
   
@@ -45,7 +47,8 @@ Estas son mis redes sociales oficiales por si quieres seguirme en Youtube o Inst
 - Frameworks:
 
   
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
 
 
 ---
