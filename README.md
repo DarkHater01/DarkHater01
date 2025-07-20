@@ -1,7 +1,14 @@
 ---
 # Sobre mi.. : 
 
+---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=OFSEC+Student+%40+K4L1NUX+DarkHater01;Bug+Bounty+Hunter+%7C+OSINT+Explorer;Learning+Python+and+Web+Dev;Future+Cyber+Agent+Pentester+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+---
+
 Bienvenido a mi GitHub, suelo crear herramientas para pasar el tiempo y que la gente las pueda usar para su gusto. mayormente suelo crear herramientas automatizadas para poder ayudar a la gente a facilitar sus tareas.
+
 
 En mi GitHub puedes encontrar gran variedad de repositorios diferentes y funcionales para que puedas usarlos, no me hago responsable del mal uso que se le pueda llegar a dar a alguna herramienta.
 
@@ -16,7 +23,7 @@ En mi GitHub puedes encontrar gran variedad de repositorios diferentes y funcion
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k4l1_l1nux) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cyber_dark_hater)
 
-Estas son mis redes sociales oficiales por si quieres seguirme en Youtube o Instagram y ver
+Estas son mis redes sociales oficiales por si quieres seguirme en Youtube o Instagram 
 
 ---
 
