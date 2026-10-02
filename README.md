@@ -33,7 +33,6 @@ Creo herramientas para resolver problemas reales, no para llenar un portafolio: 
 |---|---|
 | ✉️ Email | [cyberdarkdavids@gmail.com](mailto:cyberdarkdavids@gmail.com) |
 | 🌐 Portfolio | [darkhater01.github.io](https://darkhater01.github.io) |
-| 📱 WhatsApp | [+53 54808774](https://wa.me/5354808774) |
 | 💼 LinkedIn | [hermes-david-garcia-matos](https://www.linkedin.com/in/hermes-david-garcia-matos-b2a1102b5) |
 | 📍 Ubicación | Santiago de Cuba, Cuba |
 
