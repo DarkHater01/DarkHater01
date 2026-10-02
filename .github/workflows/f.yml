@@ -1,0 +1,11 @@
+name: f step6
+on:
+  push:
+    branches: [main]
+  workflow_schedule:
+    - cron: "0 */6 * * *"
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo ok

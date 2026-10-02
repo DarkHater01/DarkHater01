@@ -1,0 +1,11 @@
+name: g explicit hours
+on:
+  push:
+    branches: [main]
+  workflow_schedule:
+    - cron: "0 0,6,12,18 * * *"
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo ok
