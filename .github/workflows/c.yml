@@ -1,0 +1,11 @@
+name: c sched
+on:
+  push:
+    branches: [main]
+  workflow_schedule:
+    - cron: "0 */6 * * *"
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo ok
