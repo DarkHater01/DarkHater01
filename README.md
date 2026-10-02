@@ -57,7 +57,7 @@ Creo herramientas para resolver problemas reales, no para llenar un portafolio: 
 - Migraciones y optimización sobre soluciones existentes: **+40% de velocidad de integración** entre microservicios y **+60% de experiencia de usuario**.
 - Desarrollé componentes de **enriquecimiento de datos en Scala** sobre Spring Boot, para acelerar el procesamiento y transferencia de datos.
 - APIs RESTful escalables bajo arquitectura limpia, con autenticación/autorización de endpoints y pruebas unitarias e integración automatizadas.
-- Participé en el proyecto de **Integración de Datos Nacionales**, integrando soluciones con la infraestructura y el ecosistema de microservicios existente.
+
 
 ## 🎓 Educación
 
