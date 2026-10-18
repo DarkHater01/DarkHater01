@@ -38,7 +38,7 @@ Creo herramientas para resolver problemas reales, no para llenar un portafolio: 
 
 ## 🧭 Cómo trabajo
 
-- **Los números los genera un script, no la mano.** Si un dato aparece en un repo mío, sale de un run real y reproducible; si el run no pasó, el número no se publica.
+- **Los números los genera un script, no la mano.** Un dato se publica cuando un run real y reproducible lo respalda, y si un run no lo demuestra, la tabla se retira en vez de quedarse ahí: ya lo hice una vez y era lo correcto.
 - **Sandbox antes que confianza.** El código de un agente corre aislado, sin red y con el reporte de tests fuera de su alcance: un resultado que no se puede auditar no vale.
 - **La métrica es contestable.** Si la base de comparación está mal, se arregla en un PR con argumentos — incluido el mío.
 
